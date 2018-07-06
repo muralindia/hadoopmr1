@@ -18,3 +18,4 @@ this is a hadoop file
 this is a hadoop file
 this is a hadoop file
 this is a hadoop file
+This is a news.
